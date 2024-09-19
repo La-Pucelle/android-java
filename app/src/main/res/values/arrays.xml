@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shapes_array">
+        <item>Cuadrado</item>
+        <item>Rectángulo</item>
+        <item>Círculo</item>
+        <item>Triángulo Equilátero</item>
+        <item>Triángulo Isósceles</item>
+        <item>Triángulo Escaleno</item>
+    </string-array>
+</resources>
